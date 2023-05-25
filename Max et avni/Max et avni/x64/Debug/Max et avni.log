@@ -1,0 +1,6 @@
+﻿  Car.cpp
+  FileName.cpp
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Max et avni\FileName.cpp(1,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Source.cpp
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Max et avni\Source.cpp(1,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Génération de code en cours...

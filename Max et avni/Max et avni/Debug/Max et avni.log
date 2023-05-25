@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Max et avni\Main.cpp(46,63): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Max et avni\Main.cpp(46,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Max et avni\Main.cpp(104,27): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Max et avni\Main.cpp(107,83): warning C4244: 'argument' : conversion de 'T' en 'unsigned int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Max et avni\Main.cpp(107,65): warning C4244: 'argument' : conversion de 'T' en 'unsigned int', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Max et avni\Main.cpp(246,31): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Max et avni\Main.cpp(186,42): warning C4101: 'elapsed' : variable locale non référencée
+  Max et avni.vcxproj -> C:\Users\Nicolas\Documents\Nicolas\école\BA2\Q2\Proggra\Maxetavni\Max et avni\Debug\Max et avni.exe
